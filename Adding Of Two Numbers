@@ -1,0 +1,3 @@
+a=int(input("Enter A Number")
+b=int(input("Enter The Second Number")
+print(a+b)
